@@ -1,4 +1,5 @@
 🪙 Gold Price Trend and Market Analysis using Power BI
+
 📌 Project Description
 
 This project performs exploratory and time series analysis on historical gold price data to study market behavior, volatility patterns, and trend movements. An interactive Power BI dashboard was developed to transform raw financial data into meaningful analytical insights using data modeling, DAX measures, and forecasting techniques.
